@@ -1,0 +1,8 @@
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/app/read/OracleApplication.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/app/write/MySqlApplication.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/model/OracleCountry.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/app/write/OracleApplication.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/app/read/MySqlApplication.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/model/MySqlEmployee.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/config/MySqlConnector.java
+/home/tomas/Codes/Tomas_Salvador_Salgueiro/bbdda-jdbc/src/main/java/com/unir/config/OracleDatabaseConnector.java
